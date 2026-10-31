@@ -11,6 +11,11 @@ Aplicação para organizar pedidos de uma frutaria que atende escolas e hospitai
 
 [Repositório](https://github.com/i-am-caua/frutaria-automacao) · [Aplicação](https://frutaria-automacao.vercel.app)
 
+### Cate — Versão derivada de projeto open source
+Evolução de um ambiente de trabalho para agentes de IA, com apoio de IA no desenvolvimento. Minhas alterações incluem integração do Antigravity, prévia visual dos fluxos e seleção de modelos e nível de esforço por agente.
+
+[Repositório e contribuições](https://github.com/i-am-caua/Cate) · [Projeto original](https://github.com/0-AI-UG/cate)
+
 ### Cuidado Digital
 Site de extensão universitária com orientações para famílias sobre segurança digital infantil, controle parental e uso consciente de telas e IA. Construído com apoio de agentes de IA.
 
@@ -31,7 +36,7 @@ Material de apoio com exercícios, enunciados e casos de teste para o CodeBench.
 
 Uso OpenAI Codex, Antigravity, Claude, Gemini e ChatGPT na construção de projetos. Minha prática inclui elaboração de prompts, uso de agentes e subagentes e Skills para apoiar aplicações, automações e atividades de pesquisa.
 
-Os projetos destacados foram construídos com assistência de IA. Os demais repositórios também registram exercícios e estudos da graduação.
+Os projetos destacados foram construídos ou evoluídos com assistência de IA. O Cate é uma versão derivada de um projeto open source, com créditos e alterações documentados no repositório. Os demais repositórios também registram exercícios e estudos da graduação.
 
 ## Contato
 
